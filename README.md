@@ -8,9 +8,9 @@ Web Link: fixaps.com
 Where you will find the link of android app too.
 
 Used Technology:
-    PHP
-    Codeigniter 3
-    MySQL
-    Java Script
-    HTML5
-    CSS3
+-    PHP,
+-    Codeigniter 3,
+-    MySQL,
+-    Java Script,
+-    HTML5,
+-    CSS3
